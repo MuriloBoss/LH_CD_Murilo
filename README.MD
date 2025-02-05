@@ -50,7 +50,7 @@ Palavras-chave no nome podem indicar imóveis "premium", influenciando o preço.
       width=80 
       src="https://avatars.githubusercontent.com/u/79885721?v=4"
     />
-    <p>&nbsp&nbsp&nbspManuela Bertella Ossanes<br>
+    <p>&nbsp&nbsp&nbspMurilo Bertella Ossanes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/muriloboss">
     GitHub</a>&nbsp;|&nbsp;
